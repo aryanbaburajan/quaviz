@@ -1,0 +1,11 @@
+Model Information:
+* title:	Horse
+* source:	https://sketchfab.com/3d-models/horse-9b58091498374f2191b37ec78abe6aaf
+* author:	ben.townsend (https://sketchfab.com/ben.townsend)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Horse" (https://sketchfab.com/3d-models/horse-9b58091498374f2191b37ec78abe6aaf) by ben.townsend (https://sketchfab.com/ben.townsend) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Godzilla 2024
+* source:	https://sketchfab.com/3d-models/godzilla-2024-2b9d14af654e4ffcbcf804559e05c50c
+* author:	savounited (https://sketchfab.com/savounited)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Godzilla 2024" (https://sketchfab.com/3d-models/godzilla-2024-2b9d14af654e4ffcbcf804559e05c50c) by savounited (https://sketchfab.com/savounited) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

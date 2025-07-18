@@ -1,0 +1,11 @@
+Model Information:
+* title:	Colossal Titan
+* source:	https://sketchfab.com/3d-models/colossal-titan-e031a57fd4bf411f8e893361676b4544
+* author:	Sidaivan (https://sketchfab.com/Sidaivan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Colossal Titan" (https://sketchfab.com/3d-models/colossal-titan-e031a57fd4bf411f8e893361676b4544) by Sidaivan (https://sketchfab.com/Sidaivan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

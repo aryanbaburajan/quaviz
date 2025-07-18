@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Quaviz</title>
+    <style>
+      @font-face {
+        font-family: Satoshi;
+        src: url("fonts/Satoshi/fonts/Satoshi-Variable.ttf") format("truetype");
+      }
+
+      :root {
+        --background: #000000;
+        --foreground: #ffffff;
+      }
+
+      html {
+        font-family: Satoshi;
+        background-color: var(--background);
+      }
+
+      body {
+        margin: 0;
+        overflow: hidden;
+      }
+
+      canvas {
+        width: 100% !important;
+        height: 100% !important;
+      }
+
+      ::-webkit-scrollbar {
+        width: 10px;
+      }
+
+      ::-webkit-scrollbar-thumb {
+        border-radius: 20px;
+        background-color: #bbb;
+      }
+
+      #sidebar {
+        color: var(--foreground);
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        width: 240px;
+        bottom: 10px;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        outline: 1px solid var(--foreground);
+        border-radius: 20px;
+      }
+
+      .sidebar-header {
+        font-weight: bold;
+        font-size: 1.2rem;
+      }
+
+      #object-list {
+        padding-right: 10px;
+        padding-top: 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        overflow-y: auto;
+      }
+
+      .object-toggle {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .switch {
+        float: right;
+        position: relative;
+        transform: translateY(-1px);
+        width: 50px;
+        height: 26px;
+      }
+
+      .switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+      }
+
+      .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #bbb;
+        transition: 0.4s;
+        border-radius: 34px;
+      }
+
+      .slider:before {
+        position: absolute;
+        content: "";
+        height: 18px;
+        width: 18px;
+        left: 4px;
+        bottom: 4px;
+        background-color: #fff;
+        transition: 0.4s;
+        border-radius: 50%;
+      }
+
+      input:checked + .slider {
+        background-color: #6edc5f;
+      }
+
+      input:checked + .slider:before {
+        transform: translateX(24px);
+      }
+    </style>
+  </head>
+  <body>
+    <aside id="sidebar">
+      <div class="sidebar-header">controls</div>
+      <div id="object-list"></div>
+    </aside>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

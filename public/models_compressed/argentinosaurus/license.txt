@@ -1,0 +1,11 @@
+Model Information:
+* title:	Argentinosaurus
+* source:	https://sketchfab.com/3d-models/argentinosaurus-0a50ca2d92d145e3bd140371e1a9b774
+* author:	liendre (https://sketchfab.com/liendre)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Argentinosaurus" (https://sketchfab.com/3d-models/argentinosaurus-0a50ca2d92d145e3bd140371e1a9b774) by liendre (https://sketchfab.com/liendre) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

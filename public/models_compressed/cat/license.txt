@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat
+* source:	https://sketchfab.com/3d-models/cat-a503ae2a7bdd43ada7f3bea3ae0a523f
+* author:	Vr-cvantorium (https://sketchfab.com/Vr-cvantorium)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat" (https://sketchfab.com/3d-models/cat-a503ae2a7bdd43ada7f3bea3ae0a523f) by Vr-cvantorium (https://sketchfab.com/Vr-cvantorium) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
