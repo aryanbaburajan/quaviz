@@ -367,8 +367,6 @@ class SizeOfViewer {
       }
     });
 
-    return;
-
     this.controls.target.lerp(
       new THREE.Vector3(
         this.sceneWidth / 2,
